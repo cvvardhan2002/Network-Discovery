@@ -17,6 +17,7 @@ cd Network-Discovery <br>
 <body>
 Change the directory to Net-Discovery by using<br>
 cd Network-Discovery<br>
+ 
 ![Change Directory](https://user-images.githubusercontent.com/95639719/202843659-0a9e7692-0ee9-4a6d-9ff2-9e6cec39f0ac.png)
  
   
