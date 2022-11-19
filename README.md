@@ -9,7 +9,8 @@ This is a network discover tool which sends ARP requests and sniffs for replies 
 
 <h1>Installation</h1>
 <body>
-git clone https://github.com/cvvardhan2002/Port-Scanner.git <br>
-cd Port-Scanner <br>
-python3 PortScanner.py<br>
+git clone https://github.com/cvvardhan2002/Network-Discovery.git <br>
+cd Network-Discovery <br>
 </body>
+
+
