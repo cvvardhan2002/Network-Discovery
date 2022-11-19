@@ -20,3 +20,4 @@ python3 NetworkDiscover.py -t {[Ip address]/range}<br>
   
 ![Start the script](https://user-images.githubusercontent.com/95639719/193258529-28775ac8-18ed-4d66-aa84-5af54bc5d740.png)
 python3 NetworkDiscover.py<br>
+![Change Directory](https://user-images.githubusercontent.com/95639719/202843470-9a65f946-70f1-4013-a7ff-695770f91703.png)
