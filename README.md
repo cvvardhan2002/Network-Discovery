@@ -17,7 +17,8 @@ cd Network-Discovery <br>
 <body>
 Change the directory to Net-Discovery by using<br>
 cd Network-Discovery<br>
-![Change Directory](https://user-images.githubusercontent.com/95639719/202843470-9a65f946-70f1-4013-a7ff-695770f91703.png)   
+![Change Directory](https://user-images.githubusercontent.com/95639719/202843659-0a9e7692-0ee9-4a6d-9ff2-9e6cec39f0ac.png)
+ 
   
 Now to run the tool use
 python3 NetworkDiscover.py -t {[Ip address]/range}<br>
