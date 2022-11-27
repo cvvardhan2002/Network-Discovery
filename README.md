@@ -21,7 +21,7 @@ cd Network-Discovery<br>
 ![Change Directory](https://user-images.githubusercontent.com/95639719/202843659-0a9e7692-0ee9-4a6d-9ff2-9e6cec39f0ac.png)
  
   
-Now to run the tool use
+Now to run the tool use<br>
 python3 NetworkDiscover.py -t {[Ip address]/range}<br>
 -t is used to specify the target, you need to scecify the network IP and the range<br>
   
